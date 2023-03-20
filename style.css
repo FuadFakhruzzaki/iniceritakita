@@ -1,0 +1,11 @@
+body {
+    background-color: #ff6cff;
+    min-height: 200px;
+}
+.jumbotron {
+    padding-top:  3.5em;
+    background-color: #ffccff;
+}
+#sejarah{
+    background-color: #ffccff;
+}
