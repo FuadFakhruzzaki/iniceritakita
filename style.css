@@ -9,3 +9,12 @@ body {
 #sejarah{
     background-color: #ffccff;
 }
+iframe {
+    margin: 0 auto;
+    display: block;
+    border-style:none;
+}
+
+#spotif {
+    background-color: #ff6cff !important; 
+}
